@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "6af305927984a450ec21",
+  "displayName": "Current Inventory vs. Historical Sales",
+  "displayOption": "FitToPage",
+  "height": 720,
+  "width": 1280
+}
