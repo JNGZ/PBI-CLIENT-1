@@ -286,3 +286,11 @@ relationship 38ef91fa-aa8e-31a8-687b-b6b425d62897
 	fromColumn: 'Project Ledger Entries'.'Type Key'
 	toColumn: 'G/L Accounts'.'Type Key'
 
+relationship 840fdea9-2fa9-1e9b-68eb-2df5da92d3f4
+	fromColumn: 'Item Ledger Entries'.itemNo
+	toColumn: Item.'Item No.'
+
+relationship 1a8233dd-9596-ab4c-40a0-2869258977cf
+	fromColumn: 'Item Ledger Entries'.postingDate
+	toColumn: Date.Date
+
