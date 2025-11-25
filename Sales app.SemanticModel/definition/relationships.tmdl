@@ -286,3 +286,11 @@ relationship 38ef91fa-aa8e-31a8-687b-b6b425d62897
 	fromColumn: 'Project Ledger Entries'.'Type Key'
 	toColumn: 'G/L Accounts'.'Type Key'
 
+relationship 50ab98b8-6710-6a67-cfe2-65a71bba4b9c
+	fromColumn: 'Customer Ledger Entries'.dclePostingDate
+	toColumn: Date.Date
+
+relationship c19dc200-e230-917a-0863-1a1ce480b28e
+	fromColumn: 'Customer Ledger Entries'.dcleCustomerNo
+	toColumn: Customer.'Customer No.'
+
