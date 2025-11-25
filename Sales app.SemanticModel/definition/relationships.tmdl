@@ -294,3 +294,11 @@ relationship c19dc200-e230-917a-0863-1a1ce480b28e
 	fromColumn: 'Customer Ledger Entries'.dcleCustomerNo
 	toColumn: Customer.'Customer No.'
 
+relationship 840fdea9-2fa9-1e9b-68eb-2df5da92d3f4
+	fromColumn: 'Item Ledger Entries'.itemNo
+	toColumn: Item.'Item No.'
+
+relationship 1a8233dd-9596-ab4c-40a0-2869258977cf
+	fromColumn: 'Item Ledger Entries'.postingDate
+	toColumn: Date.Date
+

@@ -547,6 +547,19 @@
             "width": 234
           },
           "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15143.602950019393,
+            "y": 420.64277076149904
+          },
+          "nodeIndex": "Item Ledger Entries",
+          "nodeLineageTag": "d0a33e22-e0e8-4b73-85fb-0d8bbd72c362",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
         }
       ],
       "name": "All tables",
@@ -1968,8 +1981,62 @@
       "showExtraHeaderInfo": false,
       "hideKeyFieldsWhenCollapsed": false,
       "tablesLocked": false
+    },
+    {
+      "ordinal": 11,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 514,
+            "y": 136
+          },
+          "nodeIndex": "Item Ledger Entries",
+          "nodeLineageTag": "d0a33e22-e0e8-4b73-85fb-0d8bbd72c362",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 131,
+            "y": 121
+          },
+          "nodeIndex": "Item",
+          "nodeLineageTag": "c40a40e9-d278-4fd2-b077-3918c6213a0d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 874,
+            "y": 203
+          },
+          "nodeIndex": "Date",
+          "nodeLineageTag": "11a4fdb3-5158-4100-8442-1a84223c4b82",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Item Ledger Entries",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
     }
   ],
-  "selectedDiagram": "Customer Ledger Entries",
+  "selectedDiagram": "Item Ledger Entries",
   "defaultDiagram": "All tables"
 }
