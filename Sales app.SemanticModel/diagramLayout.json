@@ -11,7 +11,7 @@
         {
           "location": {
             "x": 1154.1558619839425,
-            "y": 447.51777076149892
+            "y": 464.39277076149892
           },
           "nodeIndex": "Fiscal Calendar Time Intelligence",
           "nodeLineageTag": "a5b0348a-e1fa-4173-8b14-f011a570c172",
@@ -24,7 +24,7 @@
         {
           "location": {
             "x": 1438.1558619839425,
-            "y": 447.51777076149892
+            "y": 464.39277076149892
           },
           "nodeIndex": "Standard Calendar Time Intelligence",
           "nodeLineageTag": "da77effe-39f2-4dff-86b5-cb0fa3bd206d",
@@ -37,7 +37,7 @@
         {
           "location": {
             "x": 2006.1558619839425,
-            "y": 447.51777076149892
+            "y": 464.39277076149892
           },
           "nodeIndex": "Weekly Calendar Time Intelligence",
           "nodeLineageTag": "0ebce29b-4f96-428b-a338-895a0762d775",
@@ -50,7 +50,7 @@
         {
           "location": {
             "x": 28.477921716997514,
-            "y": 841.28554152299807
+            "y": 858.16054152299807
           },
           "nodeIndex": "Customer",
           "nodeLineageTag": "cd4698ab-c592-4ce7-9bf8-661142385bf6",
@@ -63,7 +63,7 @@
         {
           "location": {
             "x": 836.33014307050166,
-            "y": 594.75362272047653
+            "y": 611.62862272047653
           },
           "nodeIndex": "Date",
           "nodeLineageTag": "11a4fdb3-5158-4100-8442-1a84223c4b82",
@@ -76,7 +76,7 @@
         {
           "location": {
             "x": 2290.1558619839425,
-            "y": 447.51777076149892
+            "y": 464.39277076149892
           },
           "nodeIndex": "Date Ref",
           "nodeLineageTag": "0e1c9f84-ea79-4e20-92c1-b984e0358554",
@@ -89,7 +89,7 @@
         {
           "location": {
             "x": 2574.1558619839425,
-            "y": 447.51777076149892
+            "y": 464.39277076149892
           },
           "nodeIndex": "Date Table Setup",
           "nodeLineageTag": "1f8ffa9a-61f9-4fc5-9dcc-6d36520cc60b",
@@ -102,7 +102,7 @@
         {
           "location": {
             "x": 233.07237954443926,
-            "y": 33.75
+            "y": 50.625
           },
           "nodeIndex": "Dimension Sets",
           "nodeLineageTag": "429c6e17-af59-4d03-8c05-44433e0b3d42",
@@ -115,7 +115,7 @@
         {
           "location": {
             "x": 10,
-            "y": 387.26055653318275
+            "y": 404.13555653318275
           },
           "nodeIndex": "Item",
           "nodeLineageTag": "c40a40e9-d278-4fd2-b077-3918c6213a0d",
@@ -128,7 +128,7 @@
         {
           "location": {
             "x": 2858.1558619839425,
-            "y": 447.51777076149892
+            "y": 464.39277076149892
           },
           "nodeIndex": "Localized Labels",
           "nodeLineageTag": "59839a92-22f1-4d78-9cac-a89bd3406dca",
@@ -141,7 +141,7 @@
         {
           "location": {
             "x": 594.04575412975078,
-            "y": 71.8454483958119
+            "y": 88.7204483958119
           },
           "nodeIndex": "Location",
           "nodeLineageTag": "ddfc8a61-a4a6-4225-baeb-c50df2a923ea",
@@ -154,7 +154,7 @@
         {
           "location": {
             "x": 520.07110083651628,
-            "y": 276.74871899245272
+            "y": 293.62371899245272
           },
           "nodeIndex": "Sales Budget",
           "nodeLineageTag": "227da1e2-4498-4f07-a6d5-ccfa66f0dec9",
@@ -167,7 +167,7 @@
         {
           "location": {
             "x": 601.98934527211827,
-            "y": 947.64568809359139
+            "y": 964.52068809359139
           },
           "nodeIndex": "Salesperson",
           "nodeLineageTag": "24dc6fa6-871a-492b-9724-536b3a735e0a",
@@ -180,7 +180,7 @@
         {
           "location": {
             "x": 3994.1558619839425,
-            "y": 533.51777076149892
+            "y": 550.39277076149892
           },
           "nodeIndex": "Working Days",
           "nodeLineageTag": "20fc913b-ca75-4c4b-a7f7-a011423afe9f",
@@ -193,7 +193,7 @@
         {
           "location": {
             "x": 4979.2199000046985,
-            "y": 533.517770761499
+            "y": 550.392770761499
           },
           "nodeIndex": "COMPANY",
           "nodeLineageTag": "f966f944-f3f2-40d5-9651-a37b08bd007d",
@@ -206,7 +206,7 @@
         {
           "location": {
             "x": 6105.2199000046985,
-            "y": 533.517770761499
+            "y": 550.392770761499
           },
           "nodeIndex": "Sales Budget Name",
           "nodeLineageTag": "a86afb9d-95d3-4252-a0c4-dec98d7136d8",
@@ -219,7 +219,7 @@
         {
           "location": {
             "x": 5547.2199000046985,
-            "y": 437.51777076149904
+            "y": 454.39277076149904
           },
           "nodeIndex": "Opportunities",
           "nodeLineageTag": "7393b9b2-64c3-45e1-85a1-1484eeb15866",
@@ -232,7 +232,7 @@
         {
           "location": {
             "x": 5263.2199000046985,
-            "y": 437.51777076149904
+            "y": 454.39277076149904
           },
           "nodeIndex": "Opportunity Entries",
           "nodeLineageTag": "37398a2b-ec4c-4522-9670-69150c424849",
@@ -245,7 +245,7 @@
         {
           "location": {
             "x": 6947.2199000046985,
-            "y": 447.51777076149904
+            "y": 464.39277076149904
           },
           "nodeIndex": "Contacts",
           "nodeLineageTag": "3fa851ee-1526-4e21-a283-32943d57995b",
@@ -258,7 +258,7 @@
         {
           "location": {
             "x": 7789.2199000046985,
-            "y": 533.517770761499
+            "y": 550.392770761499
           },
           "nodeIndex": "Reason Codes",
           "nodeLineageTag": "76def598-da7e-4552-a607-be257aa7e055",
@@ -271,7 +271,7 @@
         {
           "location": {
             "x": 8357.2199000046985,
-            "y": 461.51777076149904
+            "y": 478.39277076149904
           },
           "nodeIndex": "Item Category",
           "nodeLineageTag": "41e6de68-c3f4-4f21-9fbb-a76f2f4cd390",
@@ -284,7 +284,7 @@
         {
           "location": {
             "x": 8631.2199000046985,
-            "y": 485.51777076149904
+            "y": 502.39277076149904
           },
           "nodeIndex": "Pareto Scale",
           "size": {
@@ -296,7 +296,7 @@
         {
           "location": {
             "x": 8915.2199000046985,
-            "y": 545.517770761499
+            "y": 562.392770761499
           },
           "nodeIndex": "ENVIRONMENT",
           "nodeLineageTag": "269f6cde-63b2-48e8-8a26-72d123f9b409",
@@ -309,7 +309,7 @@
         {
           "location": {
             "x": 9483.2199000046985,
-            "y": 509.51777076149904
+            "y": 526.392770761499
           },
           "nodeIndex": "Sales Cycle Stages",
           "nodeLineageTag": "c0b00219-a2df-4d52-956d-0b29772faeee",
@@ -322,7 +322,7 @@
         {
           "location": {
             "x": 9757.2199000046985,
-            "y": 521.517770761499
+            "y": 538.392770761499
           },
           "nodeIndex": "Close Opportunity Codes",
           "nodeLineageTag": "1748f80a-2a43-47b0-baad-33151638be88",
@@ -335,7 +335,7 @@
         {
           "location": {
             "x": 10041.219900004699,
-            "y": 497.51777076149904
+            "y": 514.392770761499
           },
           "nodeIndex": "Translated Localized Labels",
           "size": {
@@ -347,7 +347,7 @@
         {
           "location": {
             "x": 10315.219900004699,
-            "y": 485.51777076149904
+            "y": 502.39277076149904
           },
           "nodeIndex": "Resources",
           "nodeLineageTag": "ccbb6632-eaf8-4b65-9a53-1fa24438deac",
@@ -360,7 +360,7 @@
         {
           "location": {
             "x": 10599.219900004699,
-            "y": 497.51777076149904
+            "y": 514.392770761499
           },
           "nodeIndex": "G/L Accounts",
           "nodeLineageTag": "4fc4c983-5bb3-45a7-a7a3-f6e0cb8b23da",
@@ -373,7 +373,7 @@
         {
           "location": {
             "x": 11451.219900004699,
-            "y": 447.51777076149904
+            "y": 464.39277076149904
           },
           "nodeIndex": "Sales Value Entries",
           "nodeLineageTag": "6f438992-683b-4784-bfed-ee7ca8de8e29",
@@ -386,7 +386,7 @@
         {
           "location": {
             "x": 12911.602950019393,
-            "y": 382.525215371699
+            "y": 399.400215371699
           },
           "nodeIndex": "Sales Invoice Lines",
           "size": {
@@ -398,7 +398,7 @@
         {
           "location": {
             "x": 12343.219900004699,
-            "y": 412.51032615129907
+            "y": 429.38532615129907
           },
           "nodeIndex": "Sales Credit Lines",
           "nodeLineageTag": "33461cda-5496-4e54-9561-8208200f67d7",
@@ -411,7 +411,7 @@
         {
           "location": {
             "x": 12627.421461197884,
-            "y": 513.36991333154515
+            "y": 530.24491333154515
           },
           "nodeIndex": "Type",
           "nodeLineageTag": "4f975a3b-27d8-407f-929b-42da43ec6657",
@@ -424,7 +424,7 @@
         {
           "location": {
             "x": 12019.219900004699,
-            "y": 509.51777076149904
+            "y": 526.392770761499
           },
           "nodeIndex": "Documents",
           "size": {
@@ -436,7 +436,7 @@
         {
           "location": {
             "x": 11735.219900004699,
-            "y": 447.51777076149904
+            "y": 464.39277076149904
           },
           "nodeIndex": "Sales Lines",
           "size": {
@@ -448,7 +448,7 @@
         {
           "location": {
             "x": 13185.602950019393,
-            "y": 427.51777076149904
+            "y": 444.39277076149904
           },
           "nodeIndex": "Project Ledger Entries",
           "size": {
@@ -460,7 +460,7 @@
         {
           "location": {
             "x": 13459.602950019393,
-            "y": 422.51777076149904
+            "y": 439.39277076149904
           },
           "nodeIndex": "Project",
           "nodeLineageTag": "3bc3f948-e8fc-4d1c-8762-244414324067",
@@ -473,7 +473,7 @@
         {
           "location": {
             "x": 13733.602950019393,
-            "y": 501.01777076149904
+            "y": 517.892770761499
           },
           "nodeIndex": "Sales Line Type",
           "nodeLineageTag": "ed625448-35cf-47d2-9a7c-dfbcfee6de7a",
@@ -486,7 +486,7 @@
         {
           "location": {
             "x": 14017.602950019393,
-            "y": 501.01777076149904
+            "y": 517.892770761499
           },
           "nodeIndex": "Sales Document Type",
           "nodeLineageTag": "6e42d4c6-577b-4cf4-b7e7-958306a5623b",
@@ -499,7 +499,7 @@
         {
           "location": {
             "x": 14301.602950019393,
-            "y": 501.01777076149904
+            "y": 517.892770761499
           },
           "nodeIndex": "Item Ledger Document Type",
           "nodeLineageTag": "7e644a9e-9132-4345-af3b-5cbb26c0882c",
@@ -512,7 +512,7 @@
         {
           "location": {
             "x": 14585.602950019393,
-            "y": 501.01777076149904
+            "y": 517.892770761499
           },
           "nodeIndex": "Project Journal Line Type",
           "nodeLineageTag": "fd71720f-551f-49f9-a65d-46b57de4e210",
@@ -525,12 +525,25 @@
         {
           "location": {
             "x": 14869.602950019393,
-            "y": 453.01777076149904
+            "y": 469.89277076149904
           },
           "nodeIndex": "Lost Customer Month Range",
           "nodeLineageTag": "7cbeb9b0-bea4-4c2b-a568-6c9e2026cc74",
           "size": {
             "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15143.602950019393,
+            "y": 420.64277076149904
+          },
+          "nodeIndex": "Item Ledger Entries",
+          "nodeLineageTag": "d0a33e22-e0e8-4b73-85fb-0d8bbd72c362",
+          "size": {
+            "height": 300,
             "width": 234
           },
           "zIndex": 0
@@ -1901,8 +1914,62 @@
       "showExtraHeaderInfo": false,
       "hideKeyFieldsWhenCollapsed": false,
       "tablesLocked": false
+    },
+    {
+      "ordinal": 11,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 514,
+            "y": 136
+          },
+          "nodeIndex": "Item Ledger Entries",
+          "nodeLineageTag": "d0a33e22-e0e8-4b73-85fb-0d8bbd72c362",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 131,
+            "y": 121
+          },
+          "nodeIndex": "Item",
+          "nodeLineageTag": "c40a40e9-d278-4fd2-b077-3918c6213a0d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 874,
+            "y": 203
+          },
+          "nodeIndex": "Date",
+          "nodeLineageTag": "11a4fdb3-5158-4100-8442-1a84223c4b82",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Item Ledger Entries",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
     }
   ],
-  "selectedDiagram": "All tables",
+  "selectedDiagram": "Item Ledger Entries",
   "defaultDiagram": "All tables"
 }

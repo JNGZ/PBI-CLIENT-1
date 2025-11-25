@@ -1,0 +1,223 @@
+table 'Item Ledger Entries'
+	lineageTag: d0a33e22-e0e8-4b73-85fb-0d8bbd72c362
+
+	column entryNo
+		dataType: int64
+		formatString: 0
+		lineageTag: 00f30a69-2478-44a6-a282-1511e7e4ae54
+		summarizeBy: sum
+		sourceColumn: entryNo
+
+		annotation SummarizationSetBy = Automatic
+
+	column entryType
+		dataType: string
+		lineageTag: c5c8bacf-b2a6-496f-9425-758e32755f42
+		summarizeBy: none
+		sourceColumn: entryType
+
+		annotation SummarizationSetBy = Automatic
+
+	column sourceType
+		dataType: string
+		lineageTag: 8007bf5e-25f7-4125-8946-1d2c1f067968
+		summarizeBy: none
+		sourceColumn: sourceType
+
+		annotation SummarizationSetBy = Automatic
+
+	column sourceNo
+		dataType: string
+		lineageTag: a536ae43-14ca-4241-9262-bd31dc03f3c4
+		summarizeBy: none
+		sourceColumn: sourceNo
+
+		annotation SummarizationSetBy = Automatic
+
+	column documentNo
+		dataType: string
+		lineageTag: 23e7233f-2b56-4ddd-b41a-65a10ffbab3c
+		summarizeBy: none
+		sourceColumn: documentNo
+
+		annotation SummarizationSetBy = Automatic
+
+	column documentType
+		dataType: string
+		lineageTag: 032ae07c-5a34-44b4-b5f0-c469b5336231
+		summarizeBy: none
+		sourceColumn: documentType
+
+		annotation SummarizationSetBy = Automatic
+
+	column postingDate
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: e9d84f24-3c03-43f3-9b12-308e71e3ef24
+		summarizeBy: none
+		sourceColumn: postingDate
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column itemNo
+		dataType: string
+		lineageTag: e3fcfcf9-ffc0-4879-a74d-e4f5eb278fb1
+		summarizeBy: none
+		sourceColumn: itemNo
+
+		annotation SummarizationSetBy = Automatic
+
+	column locationCode
+		dataType: string
+		lineageTag: 277ced24-00be-4dd2-b0aa-66fc92195b67
+		summarizeBy: none
+		sourceColumn: locationCode
+
+		annotation SummarizationSetBy = Automatic
+
+	column serialNo
+		dataType: string
+		lineageTag: 92ed3926-75c4-412b-a1f7-216407a702e3
+		summarizeBy: none
+		sourceColumn: serialNo
+
+		annotation SummarizationSetBy = Automatic
+
+	column expirationDate
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: d6a745b3-0cae-4646-bf77-ed0a0186ebb3
+		summarizeBy: none
+		sourceColumn: expirationDate
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column lotNo
+		dataType: string
+		lineageTag: c6330093-4905-401a-bc7f-5913aa8bbf2b
+		summarizeBy: none
+		sourceColumn: lotNo
+
+		annotation SummarizationSetBy = Automatic
+
+	column quantity
+		dataType: double
+		lineageTag: 58c3b74c-fc43-4254-8040-37fcd145754d
+		summarizeBy: sum
+		sourceColumn: quantity
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column unitOfMeasureCode
+		dataType: string
+		lineageTag: d21ec060-3125-4ac6-9d2e-a1976eff9c56
+		summarizeBy: none
+		sourceColumn: unitOfMeasureCode
+
+		annotation SummarizationSetBy = Automatic
+
+	column remainingQuantity
+		dataType: double
+		lineageTag: 1e31526d-58ce-4e2e-8bed-d1a6452b2525
+		summarizeBy: sum
+		sourceColumn: remainingQuantity
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column dimensionSetID
+		dataType: int64
+		formatString: 0
+		lineageTag: ab5b569c-6a06-4c69-9653-28d7250449c5
+		summarizeBy: count
+		sourceColumn: dimensionSetID
+
+		annotation SummarizationSetBy = Automatic
+
+	column open
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 3b6be1b2-8a7c-45d2-8441-a12afaf19666
+		summarizeBy: none
+		sourceColumn: open
+
+		annotation SummarizationSetBy = Automatic
+
+	column positive
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 6fc2e8cf-a919-42b2-8699-3fea61db233f
+		summarizeBy: none
+		sourceColumn: positive
+
+		annotation SummarizationSetBy = Automatic
+
+	column invoicedQuantity
+		dataType: double
+		lineageTag: 66b611ad-57d2-4eb0-bd49-dff89c76099c
+		summarizeBy: sum
+		sourceColumn: invoicedQuantity
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column qtyPerUnitOfMeasure
+		dataType: double
+		lineageTag: 1fa109e6-cb5e-4efb-9634-522430918908
+		summarizeBy: sum
+		sourceColumn: qtyPerUnitOfMeasure
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column costAmountActual
+		dataType: double
+		lineageTag: 95deba02-bdc8-42fd-96e2-35fa956df273
+		summarizeBy: sum
+		sourceColumn: costAmountActual
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column salesAmountActual
+		dataType: double
+		lineageTag: f4c401d8-48cc-4bb2-a02f-8e7131a26a8f
+		summarizeBy: sum
+		sourceColumn: salesAmountActual
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column ETag
+		dataType: string
+		lineageTag: cbd33140-278f-419a-ab82-5cea0c00cd3a
+		summarizeBy: none
+		sourceColumn: ETag
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Item Ledger Entries' = m
+		mode: import
+		queryGroup: 'Fact Tables'
+		source =
+				let
+				    Source = Dynamics365BusinessCentral.ApiContentsWithOptions(ENVIRONMENT, COMPANY, API_ENDPOINT , []),
+				    itemLedgerEntries_table = Source{[Name="itemLedgerEntries",Signature="table"]}[Data]
+				in
+				    itemLedgerEntries_table
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
