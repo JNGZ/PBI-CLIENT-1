@@ -1,6 +1,16 @@
 table 'Item Ledger Entries'
 	lineageTag: d0a33e22-e0e8-4b73-85fb-0d8bbd72c362
 
+	measure 'Current Inventory' =
+			
+			CALCULATE(
+			    SUM('Item Ledger Entries'[quantity]),
+			    REMOVEFILTERS('Date'[Date])
+			)
+		lineageTag: a8fd6302-4a07-4b81-bf57-eb0f5ad912f9
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
 	column entryNo
 		dataType: int64
 		formatString: 0
